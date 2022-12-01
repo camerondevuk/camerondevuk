@@ -1,3 +1,3 @@
-Hi there.
-Best friends with geo ambient and kerian.
-I like to code on vs code xcode and sublime text.
+🔭 I’m currently working on CatMenu.
+🌱 I’m currently learning Typescript.
+📫 How to reach me: TacoCam#4126
