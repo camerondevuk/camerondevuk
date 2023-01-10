@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Cam!
 
-[![Github Badge](https://img.shields.io/badge/-CamPCatDev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CamPCatDev/)](https://www.github.com/CamPCatDev/) ![](https://komarev.com/ghpvc/?CamPCatDev)
+
 
 
 - 🔭 I am a HTML, CSS and Tailwindui Developer
