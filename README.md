@@ -1,9 +1,9 @@
-# Hello there 👋, I'm Cam!
+# Hello there 👋, I'm Teco!
 
 
 
 
-- 🔭 I am a HTML, CSS and Tailwindui Developer
+- 🔭 I am a NEXT.JS, PHP and Tailwindui Developer
 
 
 
