@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I am a NEXT.JS, PHP and Tailwindui Developer
+- 🔭 I am a typescript developer.
 
 
 
