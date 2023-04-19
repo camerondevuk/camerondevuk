@@ -4,6 +4,7 @@
 
 
 - 🔭 I am a typescript developer and javascript developer.
+- Contact me at TecoCam#6368 if you need anything done like discord bots.
 
 
 
