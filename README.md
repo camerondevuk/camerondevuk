@@ -1,9 +1,9 @@
-# Hello there 👋, I'm Teco!
+# Hello there 👋, I'm Cameron!
 
 
 
 
-- 🔭 I am a typescript developer.
+- 🔭 I am a typescript developer and javascript developer.
 
 
 
