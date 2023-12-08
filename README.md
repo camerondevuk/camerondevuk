@@ -4,7 +4,7 @@
 
 
 - 🔭 I am a typescript developer and javascript developer.
-- Contact me at camerondev if you need anything done like discord bots.
+- I like to code.
 
 
 
